@@ -3,7 +3,7 @@
     <BookAppointmentButton/>
 </div>
 
-<script>
+<script lang="ts">
     import BookAppointmentButton from "./book_appointment_button.svelte";
 
 </script>

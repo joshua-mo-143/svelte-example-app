@@ -2,7 +2,7 @@
     <Header/>
 </Layout>
 
-<script>
+<script lang="ts">
     import Layout from '../components/layout.svelte';
     import Header from '../components/header.svelte';
 </script>

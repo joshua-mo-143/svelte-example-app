@@ -5,7 +5,7 @@
 </div>
 </Layout>
 
-<script>
+<script lang="ts">
     import ContactForm from '../../components/contact_form.svelte';
     import CompanyDetails from '../../components/company_details.svelte';
     import Layout from '../../components/layout.svelte';

@@ -25,7 +25,7 @@
     </div>
 </Layout>
 
-<script>
+<script lang="ts">
     import CallToAction from '../../components/call_to_action.svelte';
     import Layout from '../../components/layout.svelte';
     import {fade} from 'svelte/transition'

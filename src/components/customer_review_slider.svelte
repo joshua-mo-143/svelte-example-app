@@ -13,8 +13,8 @@
     </div>
 </div>
 
-<script>
-        let index = 0;
+<script lang="ts">
+        let index: number = 0;
 
         let data = [
         {
