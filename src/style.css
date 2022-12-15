@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Indie+Flower&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #d3d3d3;
+}
+.image {
+    box-shadow: 20px 20px rgba(128,0,128,0.5);
+    transition: all 0.25s ease-in-out;
+}
+
+.image:hover {
+    box-shadow: none;
+    transform: translate(10px, 10px);
+}
+
+#header-img {
+    box-shadow: 20px 20px rgba(0,0,0,0.5);
+    transition: all 0.25s ease-in-out;
+}
+
+#header-img:hover {
+    box-shadow: none;
+    transform: translate(10px, 10px);
+}
