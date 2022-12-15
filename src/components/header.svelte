@@ -3,7 +3,7 @@
     in:fly="{{x:-200, duration:1000}}">
         <h1 class="text-2xl text-stone-500 font-['DM_Serif_Display']">welcome to lorem ipsum</h1>
         <a href="/contact">
-            <button class="text-xl bg-black text-white px-5 py-2 rounded-xl font-['DM_Serif_Display']">book an appointment</button>
+            <button class="text-xl bg-white text-black hover:text-white hover:bg-black transition-all px-5 py-2 rounded-xl font-['DM_Serif_Display']">book an appointment</button>
         </a>
     </div>
     <div class="flex flex-col justify-center items-center mt-5" in:fly="{{x:200, duration:1000}}">
